@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rememberme"
+    namespace = "com.example.remember"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.rememberme"
+        applicationId = "com.example.remember"
         minSdk = 26
         targetSdk = 37
         versionCode = 1

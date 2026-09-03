@@ -1,4 +1,4 @@
-package com.example.rememberme
+package com.example.remember
 
 import org.junit.Test
 
