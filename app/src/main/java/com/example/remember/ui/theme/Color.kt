@@ -1,4 +1,4 @@
-package com.example.rememberme.ui.theme
+package com.example.remember.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

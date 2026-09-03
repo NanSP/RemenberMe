@@ -1,4 +1,4 @@
-package com.example.rememberme.ui.theme
+package com.example.remember.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
